@@ -17,7 +17,7 @@
   coming: {
     title: "Coming Soon…",
     img: "./images/comingsoon.png",
-    desc: "Next project is a full-stack website combining everything I've learned in React and Tailwind. Stay tuned!",
+    desc: "Next project is a website combining everything I've learned in React(Next.js) and Tailwind. Stay tuned!",
     links: ""
   }
 };
@@ -71,3 +71,4 @@ form.addEventListener("submit", function(e) {
 
 
 });
+
